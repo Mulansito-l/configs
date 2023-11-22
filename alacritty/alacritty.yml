@@ -1,0 +1,18 @@
+window:
+  padding:
+    x: 8
+    y: 10
+
+  opacity: 0.95
+
+scrolling:
+  history: 1000
+  multiplier: 5
+
+font:
+  normal:
+    family: "Fira Code"
+
+  size: 12
+import:
+  - ~/.config/alacritty/catppuccin-macchiato.yml

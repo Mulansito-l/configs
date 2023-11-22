@@ -1,0 +1,6 @@
+2023/11/20-20:51:45.208 4789 Reusing MANIFEST /home/milan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/11/20-20:51:45.208 4789 Recovering log #16
+2023/11/20-20:51:45.208 4789 Reusing old log /home/milan/.config/discord/Local Storage/leveldb/000016.log 
+2023/11/20-20:54:10.687 480a Level-0 table #22: started
+2023/11/20-20:54:10.729 480a Level-0 table #22: 699497 bytes OK
+2023/11/20-20:54:10.769 480a Delete type=0 #16

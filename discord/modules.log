@@ -1,0 +1,559 @@
+2023-11-20T04:08:38.254Z [Modules] Modules initializing
+2023-11-20T04:08:38.255Z [Modules] Distribution: remote
+2023-11-20T04:08:38.255Z [Modules] Host updates: enabled
+2023-11-20T04:08:38.255Z [Modules] Module updates: enabled
+2023-11-20T04:08:38.255Z [Modules] Module install path: /home/milan/.config/discord/0.0.35/modules
+2023-11-20T04:08:38.255Z [Modules] Module installed file path: /home/milan/.config/discord/0.0.35/modules/installed.json
+2023-11-20T04:08:38.255Z [Modules] Module download path: /home/milan/.config/discord/0.0.35/modules/pending
+2023-11-20T04:08:40.055Z [Modules] Bootstrapping...
+2023-11-20T04:08:40.055Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-11-20T04:08:40.058Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-11-20T04:08:40.059Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-11-20T04:08:40.061Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-11-20T04:08:40.061Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-11-20T04:08:40.064Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-11-20T04:08:40.065Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-11-20T04:08:40.067Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-11-20T04:08:40.067Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-11-20T04:08:40.068Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-11-20T04:08:40.068Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-11-20T04:08:40.069Z [Modules] Checking for host updates.
+2023-11-20T04:08:40.250Z [Modules] Host is up to date.
+2023-11-20T04:08:40.250Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T04:08:40.321Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-11-20T04:08:40.321Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-11-20T04:08:40.321Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-11-20T04:08:40.322Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-11-20T04:08:40.322Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-11-20T04:08:40.322Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-11-20T04:08:40.322Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip
+2023-11-20T04:08:40.751Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 1%
+2023-11-20T04:08:40.822Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 2%
+2023-11-20T04:08:40.893Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 3%
+2023-11-20T04:08:40.904Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 4%
+2023-11-20T04:08:40.916Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 5%
+2023-11-20T04:08:40.930Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 6%
+2023-11-20T04:08:40.966Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 7%
+2023-11-20T04:08:40.979Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 8%
+2023-11-20T04:08:40.991Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 9%
+2023-11-20T04:08:41.006Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 10%
+2023-11-20T04:08:41.013Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 11%
+2023-11-20T04:08:41.027Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 12%
+2023-11-20T04:08:41.033Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 13%
+2023-11-20T04:08:41.041Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 14%
+2023-11-20T04:08:41.050Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 15%
+2023-11-20T04:08:41.055Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 16%
+2023-11-20T04:08:41.060Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 17%
+2023-11-20T04:08:41.068Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 18%
+2023-11-20T04:08:41.073Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 19%
+2023-11-20T04:08:41.078Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 20%
+2023-11-20T04:08:41.087Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 21%
+2023-11-20T04:08:41.092Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 22%
+2023-11-20T04:08:41.100Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 23%
+2023-11-20T04:08:41.104Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 24%
+2023-11-20T04:08:41.109Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 25%
+2023-11-20T04:08:41.115Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 26%
+2023-11-20T04:08:41.118Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 27%
+2023-11-20T04:08:41.121Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 28%
+2023-11-20T04:08:41.126Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 29%
+2023-11-20T04:08:41.128Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 30%
+2023-11-20T04:08:41.130Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 31%
+2023-11-20T04:08:41.140Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 34%
+2023-11-20T04:08:41.146Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 36%
+2023-11-20T04:08:41.150Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 37%
+2023-11-20T04:08:41.156Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 40%
+2023-11-20T04:08:41.164Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 43%
+2023-11-20T04:08:41.171Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 46%
+2023-11-20T04:08:41.178Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 49%
+2023-11-20T04:08:41.185Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 51%
+2023-11-20T04:08:41.190Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 54%
+2023-11-20T04:08:41.195Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 57%
+2023-11-20T04:08:41.201Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 60%
+2023-11-20T04:08:41.206Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 63%
+2023-11-20T04:08:41.211Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 66%
+2023-11-20T04:08:41.216Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 69%
+2023-11-20T04:08:41.221Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 72%
+2023-11-20T04:08:41.225Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 75%
+2023-11-20T04:08:41.229Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 78%
+2023-11-20T04:08:41.234Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 81%
+2023-11-20T04:08:41.238Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 84%
+2023-11-20T04:08:41.241Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 87%
+2023-11-20T04:08:41.245Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 90%
+2023-11-20T04:08:41.248Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 93%
+2023-11-20T04:08:41.251Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 95%
+2023-11-20T04:08:41.254Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 98%
+2023-11-20T04:08:41.255Z [Modules] Streaming discord_desktop_core@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip: 100%
+2023-11-20T04:08:41.256Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-11-20T04:08:41.256Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip
+2023-11-20T04:08:41.518Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 3%
+2023-11-20T04:08:41.519Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 4%
+2023-11-20T04:08:41.520Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 7%
+2023-11-20T04:08:41.521Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 9%
+2023-11-20T04:08:41.522Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 12%
+2023-11-20T04:08:41.523Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 16%
+2023-11-20T04:08:41.525Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 19%
+2023-11-20T04:08:41.527Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 23%
+2023-11-20T04:08:41.528Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 26%
+2023-11-20T04:08:41.530Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 29%
+2023-11-20T04:08:41.531Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 33%
+2023-11-20T04:08:41.534Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 36%
+2023-11-20T04:08:41.534Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 37%
+2023-11-20T04:08:41.535Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 41%
+2023-11-20T04:08:41.537Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 44%
+2023-11-20T04:08:41.538Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 47%
+2023-11-20T04:08:41.540Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 51%
+2023-11-20T04:08:41.541Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 54%
+2023-11-20T04:08:41.543Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 58%
+2023-11-20T04:08:41.544Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 61%
+2023-11-20T04:08:41.546Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 65%
+2023-11-20T04:08:41.548Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 68%
+2023-11-20T04:08:41.550Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 71%
+2023-11-20T04:08:41.550Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 73%
+2023-11-20T04:08:41.552Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 77%
+2023-11-20T04:08:41.554Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 81%
+2023-11-20T04:08:41.555Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 84%
+2023-11-20T04:08:41.557Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 88%
+2023-11-20T04:08:41.559Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 91%
+2023-11-20T04:08:41.560Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 94%
+2023-11-20T04:08:41.562Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 98%
+2023-11-20T04:08:41.562Z [Modules] Streaming discord_erlpack@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip: 100%
+2023-11-20T04:08:41.563Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-11-20T04:08:41.563Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip
+2023-11-20T04:08:41.786Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 1%
+2023-11-20T04:08:41.789Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 2%
+2023-11-20T04:08:41.790Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 3%
+2023-11-20T04:08:41.793Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 4%
+2023-11-20T04:08:41.795Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 5%
+2023-11-20T04:08:41.798Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 6%
+2023-11-20T04:08:41.800Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 7%
+2023-11-20T04:08:41.802Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 8%
+2023-11-20T04:08:41.805Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 9%
+2023-11-20T04:08:41.807Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 10%
+2023-11-20T04:08:41.809Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 11%
+2023-11-20T04:08:41.813Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 12%
+2023-11-20T04:08:41.814Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 13%
+2023-11-20T04:08:41.817Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 14%
+2023-11-20T04:08:41.818Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 15%
+2023-11-20T04:08:41.821Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 16%
+2023-11-20T04:08:41.822Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 17%
+2023-11-20T04:08:41.826Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 18%
+2023-11-20T04:08:41.827Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 19%
+2023-11-20T04:08:41.829Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 20%
+2023-11-20T04:08:41.832Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 21%
+2023-11-20T04:08:41.834Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 22%
+2023-11-20T04:08:41.837Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 23%
+2023-11-20T04:08:41.838Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 24%
+2023-11-20T04:08:41.841Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 25%
+2023-11-20T04:08:41.842Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 26%
+2023-11-20T04:08:41.845Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 27%
+2023-11-20T04:08:41.848Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 28%
+2023-11-20T04:08:41.849Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 29%
+2023-11-20T04:08:41.851Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 30%
+2023-11-20T04:08:41.854Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 31%
+2023-11-20T04:08:41.856Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 32%
+2023-11-20T04:08:41.860Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 33%
+2023-11-20T04:08:41.861Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 34%
+2023-11-20T04:08:41.862Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 35%
+2023-11-20T04:08:41.865Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 36%
+2023-11-20T04:08:41.867Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 37%
+2023-11-20T04:08:41.869Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 38%
+2023-11-20T04:08:41.872Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 39%
+2023-11-20T04:08:41.874Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 40%
+2023-11-20T04:08:41.877Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 41%
+2023-11-20T04:08:41.879Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 42%
+2023-11-20T04:08:41.880Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 43%
+2023-11-20T04:08:41.883Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 44%
+2023-11-20T04:08:41.886Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 45%
+2023-11-20T04:08:41.888Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 46%
+2023-11-20T04:08:41.889Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 47%
+2023-11-20T04:08:41.892Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 48%
+2023-11-20T04:08:41.893Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 49%
+2023-11-20T04:08:41.896Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 50%
+2023-11-20T04:08:41.898Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 51%
+2023-11-20T04:08:41.901Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 52%
+2023-11-20T04:08:41.902Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 53%
+2023-11-20T04:08:41.905Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 54%
+2023-11-20T04:08:41.906Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 55%
+2023-11-20T04:08:41.909Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 56%
+2023-11-20T04:08:41.911Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 57%
+2023-11-20T04:08:41.912Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 58%
+2023-11-20T04:08:41.915Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 59%
+2023-11-20T04:08:41.917Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 60%
+2023-11-20T04:08:41.918Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 61%
+2023-11-20T04:08:41.920Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 62%
+2023-11-20T04:08:41.932Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 63%
+2023-11-20T04:08:41.932Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 64%
+2023-11-20T04:08:41.934Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 65%
+2023-11-20T04:08:41.935Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 66%
+2023-11-20T04:08:41.936Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 67%
+2023-11-20T04:08:41.937Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 68%
+2023-11-20T04:08:41.938Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 69%
+2023-11-20T04:08:41.939Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 70%
+2023-11-20T04:08:41.939Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 71%
+2023-11-20T04:08:41.940Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 72%
+2023-11-20T04:08:41.941Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 73%
+2023-11-20T04:08:41.942Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 74%
+2023-11-20T04:08:41.943Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 75%
+2023-11-20T04:08:41.944Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 76%
+2023-11-20T04:08:41.947Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 77%
+2023-11-20T04:08:41.948Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 78%
+2023-11-20T04:08:41.950Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 79%
+2023-11-20T04:08:41.952Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 80%
+2023-11-20T04:08:41.953Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 81%
+2023-11-20T04:08:41.957Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 82%
+2023-11-20T04:08:41.958Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 83%
+2023-11-20T04:08:41.960Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 84%
+2023-11-20T04:08:41.963Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 85%
+2023-11-20T04:08:41.966Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 86%
+2023-11-20T04:08:41.967Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 87%
+2023-11-20T04:08:41.970Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 88%
+2023-11-20T04:08:41.972Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 89%
+2023-11-20T04:08:41.974Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 90%
+2023-11-20T04:08:41.977Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 91%
+2023-11-20T04:08:41.978Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 92%
+2023-11-20T04:08:41.982Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 93%
+2023-11-20T04:08:42.006Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 94%
+2023-11-20T04:08:42.007Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 95%
+2023-11-20T04:08:42.008Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 96%
+2023-11-20T04:08:42.009Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 97%
+2023-11-20T04:08:42.010Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 98%
+2023-11-20T04:08:42.011Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 99%
+2023-11-20T04:08:42.012Z [Modules] Streaming discord_spellcheck@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip: 100%
+2023-11-20T04:08:42.013Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-11-20T04:08:42.013Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip
+2023-11-20T04:08:42.251Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 2%
+2023-11-20T04:08:42.252Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 4%
+2023-11-20T04:08:42.252Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 6%
+2023-11-20T04:08:42.253Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 8%
+2023-11-20T04:08:42.253Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 12%
+2023-11-20T04:08:42.255Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 17%
+2023-11-20T04:08:42.256Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 20%
+2023-11-20T04:08:42.257Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 22%
+2023-11-20T04:08:42.258Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 24%
+2023-11-20T04:08:42.259Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 29%
+2023-11-20T04:08:42.264Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 44%
+2023-11-20T04:08:42.265Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 50%
+2023-11-20T04:08:42.265Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 54%
+2023-11-20T04:08:42.266Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 56%
+2023-11-20T04:08:42.267Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 58%
+2023-11-20T04:08:42.267Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 60%
+2023-11-20T04:08:42.268Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 61%
+2023-11-20T04:08:42.268Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 63%
+2023-11-20T04:08:42.269Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 65%
+2023-11-20T04:08:42.269Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 67%
+2023-11-20T04:08:42.270Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 69%
+2023-11-20T04:08:42.270Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 71%
+2023-11-20T04:08:42.271Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 73%
+2023-11-20T04:08:42.271Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 75%
+2023-11-20T04:08:42.272Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 77%
+2023-11-20T04:08:42.272Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 79%
+2023-11-20T04:08:42.273Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 81%
+2023-11-20T04:08:42.274Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 83%
+2023-11-20T04:08:42.275Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 85%
+2023-11-20T04:08:42.275Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 88%
+2023-11-20T04:08:42.276Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 90%
+2023-11-20T04:08:42.276Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 92%
+2023-11-20T04:08:42.277Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 94%
+2023-11-20T04:08:42.278Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 96%
+2023-11-20T04:08:42.278Z [Modules] Streaming discord_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip: 100%
+2023-11-20T04:08:42.280Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-11-20T04:08:42.280Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip
+2023-11-20T04:08:42.510Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 1%
+2023-11-20T04:08:42.511Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 2%
+2023-11-20T04:08:42.512Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 3%
+2023-11-20T04:08:42.514Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 4%
+2023-11-20T04:08:42.516Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 5%
+2023-11-20T04:08:42.518Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 6%
+2023-11-20T04:08:42.520Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 7%
+2023-11-20T04:08:42.521Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 8%
+2023-11-20T04:08:42.523Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 9%
+2023-11-20T04:08:42.526Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 10%
+2023-11-20T04:08:42.527Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 11%
+2023-11-20T04:08:42.529Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 12%
+2023-11-20T04:08:42.531Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 13%
+2023-11-20T04:08:42.533Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 14%
+2023-11-20T04:08:42.534Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 15%
+2023-11-20T04:08:42.536Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 16%
+2023-11-20T04:08:42.538Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 17%
+2023-11-20T04:08:42.540Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 18%
+2023-11-20T04:08:42.584Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 19%
+2023-11-20T04:08:42.585Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 20%
+2023-11-20T04:08:42.587Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 21%
+2023-11-20T04:08:42.589Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 22%
+2023-11-20T04:08:42.591Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 23%
+2023-11-20T04:08:42.593Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 24%
+2023-11-20T04:08:42.595Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 25%
+2023-11-20T04:08:42.597Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 26%
+2023-11-20T04:08:42.599Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 27%
+2023-11-20T04:08:42.600Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 28%
+2023-11-20T04:08:42.602Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 29%
+2023-11-20T04:08:42.610Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 30%
+2023-11-20T04:08:42.612Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 31%
+2023-11-20T04:08:42.613Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 32%
+2023-11-20T04:08:42.615Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 33%
+2023-11-20T04:08:42.617Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 34%
+2023-11-20T04:08:42.619Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 35%
+2023-11-20T04:08:42.621Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 36%
+2023-11-20T04:08:42.623Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 37%
+2023-11-20T04:08:42.660Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 38%
+2023-11-20T04:08:42.662Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 39%
+2023-11-20T04:08:42.664Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 40%
+2023-11-20T04:08:42.666Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 41%
+2023-11-20T04:08:42.667Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 42%
+2023-11-20T04:08:42.669Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 43%
+2023-11-20T04:08:42.671Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 44%
+2023-11-20T04:08:42.686Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 45%
+2023-11-20T04:08:42.687Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 46%
+2023-11-20T04:08:42.690Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 47%
+2023-11-20T04:08:42.691Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 48%
+2023-11-20T04:08:42.693Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 49%
+2023-11-20T04:08:42.695Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 50%
+2023-11-20T04:08:42.696Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 51%
+2023-11-20T04:08:42.698Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 52%
+2023-11-20T04:08:42.700Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 53%
+2023-11-20T04:08:42.702Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 54%
+2023-11-20T04:08:42.704Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 55%
+2023-11-20T04:08:42.735Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 56%
+2023-11-20T04:08:42.737Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 57%
+2023-11-20T04:08:42.739Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 58%
+2023-11-20T04:08:42.740Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 59%
+2023-11-20T04:08:42.762Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 60%
+2023-11-20T04:08:42.763Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 61%
+2023-11-20T04:08:42.765Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 62%
+2023-11-20T04:08:42.767Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 63%
+2023-11-20T04:08:42.769Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 64%
+2023-11-20T04:08:42.770Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 65%
+2023-11-20T04:08:42.772Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 66%
+2023-11-20T04:08:42.774Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 67%
+2023-11-20T04:08:42.776Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 68%
+2023-11-20T04:08:42.783Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 69%
+2023-11-20T04:08:42.784Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 72%
+2023-11-20T04:08:42.786Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 73%
+2023-11-20T04:08:42.787Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 74%
+2023-11-20T04:08:42.837Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 75%
+2023-11-20T04:08:42.839Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 76%
+2023-11-20T04:08:42.840Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 77%
+2023-11-20T04:08:42.843Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 78%
+2023-11-20T04:08:42.844Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 79%
+2023-11-20T04:08:42.846Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 80%
+2023-11-20T04:08:42.848Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 81%
+2023-11-20T04:08:42.850Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 82%
+2023-11-20T04:08:42.851Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 83%
+2023-11-20T04:08:42.853Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 84%
+2023-11-20T04:08:42.856Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 85%
+2023-11-20T04:08:42.857Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 86%
+2023-11-20T04:08:42.859Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 87%
+2023-11-20T04:08:42.860Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 88%
+2023-11-20T04:08:42.862Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 89%
+2023-11-20T04:08:42.913Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 90%
+2023-11-20T04:08:42.915Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 91%
+2023-11-20T04:08:42.917Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 92%
+2023-11-20T04:08:42.919Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 93%
+2023-11-20T04:08:42.920Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 94%
+2023-11-20T04:08:42.922Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 95%
+2023-11-20T04:08:42.925Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 96%
+2023-11-20T04:08:42.926Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 97%
+2023-11-20T04:08:42.930Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 98%
+2023-11-20T04:08:42.932Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 99%
+2023-11-20T04:08:42.933Z [Modules] Streaming discord_voice@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip: 100%
+2023-11-20T04:08:42.942Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-11-20T04:08:42.943Z [Modules] Installing updates...
+2023-11-20T04:08:42.943Z [Modules] Installing discord_desktop_core@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_desktop_core-1.zip
+2023-11-20T04:08:43.026Z [Modules] Installing discord_erlpack@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_erlpack-1.zip
+2023-11-20T04:08:43.082Z [Modules] Installing discord_spellcheck@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_spellcheck-1.zip
+2023-11-20T04:08:43.764Z [Modules] Installing discord_utils@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_utils-1.zip
+2023-11-20T04:08:43.973Z [Modules] Installing discord_voice@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_voice-1.zip
+2023-11-20T04:08:44.703Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-11-20T04:08:44.703Z [Modules] Checking for host updates.
+2023-11-20T04:08:44.824Z [Modules] Host is up to date.
+2023-11-20T04:08:44.824Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T04:08:44.827Z [Modules] No module updates available.
+2023-11-20T04:08:46.216Z [Modules] Starting to install discord_krisp...
+2023-11-20T04:08:46.216Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-11-20T04:08:46.217Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip
+2023-11-20T04:08:46.226Z [Modules] Starting to install discord_game_utils...
+2023-11-20T04:08:46.443Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 1%
+2023-11-20T04:08:46.445Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 2%
+2023-11-20T04:08:46.472Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 3%
+2023-11-20T04:08:46.473Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 4%
+2023-11-20T04:08:46.474Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 5%
+2023-11-20T04:08:46.477Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 6%
+2023-11-20T04:08:46.478Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 7%
+2023-11-20T04:08:46.480Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 8%
+2023-11-20T04:08:46.481Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 9%
+2023-11-20T04:08:46.482Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 10%
+2023-11-20T04:08:46.488Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 17%
+2023-11-20T04:08:46.537Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 18%
+2023-11-20T04:08:46.589Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 19%
+2023-11-20T04:08:46.623Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 20%
+2023-11-20T04:08:46.666Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 21%
+2023-11-20T04:08:46.681Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 22%
+2023-11-20T04:08:46.683Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 23%
+2023-11-20T04:08:46.685Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 24%
+2023-11-20T04:08:46.686Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 25%
+2023-11-20T04:08:46.688Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 26%
+2023-11-20T04:08:46.689Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 27%
+2023-11-20T04:08:46.690Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 28%
+2023-11-20T04:08:46.691Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 29%
+2023-11-20T04:08:46.692Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 30%
+2023-11-20T04:08:46.693Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 31%
+2023-11-20T04:08:46.694Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 32%
+2023-11-20T04:08:46.696Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 33%
+2023-11-20T04:08:46.696Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 34%
+2023-11-20T04:08:46.697Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 35%
+2023-11-20T04:08:46.698Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 36%
+2023-11-20T04:08:46.698Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 37%
+2023-11-20T04:08:46.699Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 38%
+2023-11-20T04:08:46.700Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 39%
+2023-11-20T04:08:46.700Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 40%
+2023-11-20T04:08:46.701Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 41%
+2023-11-20T04:08:46.766Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 42%
+2023-11-20T04:08:46.768Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 43%
+2023-11-20T04:08:46.770Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 44%
+2023-11-20T04:08:46.772Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 45%
+2023-11-20T04:08:46.774Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 46%
+2023-11-20T04:08:46.776Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 47%
+2023-11-20T04:08:46.778Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 48%
+2023-11-20T04:08:46.780Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 49%
+2023-11-20T04:08:46.782Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 50%
+2023-11-20T04:08:46.783Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 51%
+2023-11-20T04:08:46.786Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 52%
+2023-11-20T04:08:46.787Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 53%
+2023-11-20T04:08:46.790Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 54%
+2023-11-20T04:08:46.792Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 55%
+2023-11-20T04:08:46.843Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 56%
+2023-11-20T04:08:46.844Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 57%
+2023-11-20T04:08:46.850Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 60%
+2023-11-20T04:08:46.852Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 61%
+2023-11-20T04:08:46.855Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 62%
+2023-11-20T04:08:46.858Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 63%
+2023-11-20T04:08:46.859Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 64%
+2023-11-20T04:08:46.860Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 65%
+2023-11-20T04:08:46.862Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 66%
+2023-11-20T04:08:46.863Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 67%
+2023-11-20T04:08:46.866Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 68%
+2023-11-20T04:08:46.869Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 69%
+2023-11-20T04:08:46.918Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 70%
+2023-11-20T04:08:46.920Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 71%
+2023-11-20T04:08:46.921Z [Modules] Checking for host updates.
+2023-11-20T04:08:46.922Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 72%
+2023-11-20T04:08:46.924Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 73%
+2023-11-20T04:08:46.926Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 74%
+2023-11-20T04:08:46.928Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 75%
+2023-11-20T04:08:46.930Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 76%
+2023-11-20T04:08:46.932Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 77%
+2023-11-20T04:08:46.934Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 78%
+2023-11-20T04:08:46.936Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 79%
+2023-11-20T04:08:46.938Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 80%
+2023-11-20T04:08:46.941Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 81%
+2023-11-20T04:08:46.942Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 82%
+2023-11-20T04:08:46.993Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 83%
+2023-11-20T04:08:46.995Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 84%
+2023-11-20T04:08:46.997Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 85%
+2023-11-20T04:08:46.998Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 86%
+2023-11-20T04:08:47.000Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 87%
+2023-11-20T04:08:47.002Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 88%
+2023-11-20T04:08:47.004Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 89%
+2023-11-20T04:08:47.006Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 90%
+2023-11-20T04:08:47.008Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 91%
+2023-11-20T04:08:47.010Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 92%
+2023-11-20T04:08:47.012Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 93%
+2023-11-20T04:08:47.014Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 94%
+2023-11-20T04:08:47.016Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 95%
+2023-11-20T04:08:47.018Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 96%
+2023-11-20T04:08:47.026Z [Modules] Starting to install discord_rpc...
+2023-11-20T04:08:47.036Z [Modules] Host is up to date.
+2023-11-20T04:08:47.036Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T04:08:47.040Z [Modules] No module updates available.
+2023-11-20T04:08:47.068Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 97%
+2023-11-20T04:08:47.070Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 98%
+2023-11-20T04:08:47.073Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 99%
+2023-11-20T04:08:47.074Z [Modules] Streaming discord_krisp@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip: 100%
+2023-11-20T04:08:47.076Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-11-20T04:08:47.076Z [Modules] Streaming discord_game_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_game_utils-1.zip
+2023-11-20T04:08:47.076Z [Modules] Installing discord_krisp@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_krisp-1.zip
+2023-11-20T04:08:47.494Z [Modules] Streaming discord_game_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_game_utils-1.zip: 83%
+2023-11-20T04:08:47.496Z [Modules] Streaming discord_game_utils@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_game_utils-1.zip: 100%
+2023-11-20T04:08:47.500Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-11-20T04:08:47.500Z [Modules] Streaming discord_rpc@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_rpc-1.zip
+2023-11-20T04:08:47.753Z [Modules] Streaming discord_rpc@1 to /home/milan/.config/discord/0.0.35/modules/pending/discord_rpc-1.zip: 100%
+2023-11-20T04:08:47.754Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-11-20T04:08:47.809Z [Modules] Installing discord_game_utils@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_game_utils-1.zip
+2023-11-20T04:08:47.873Z [Modules] Installing discord_rpc@1 from /home/milan/.config/discord/0.0.35/modules/pending/discord_rpc-1.zip
+2023-11-20T04:08:47.888Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-11-20T05:08:46.922Z [Modules] Checking for host updates.
+2023-11-20T05:08:47.078Z [Modules] Host is up to date.
+2023-11-20T05:08:47.078Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T05:08:47.114Z [Modules] No module updates available.
+2023-11-20T06:08:46.922Z [Modules] Checking for host updates.
+2023-11-20T06:08:47.081Z [Modules] Host is up to date.
+2023-11-20T06:08:47.082Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T06:08:47.122Z [Modules] No module updates available.
+2023-11-20T18:20:55.364Z [Modules] Modules initializing
+2023-11-20T18:20:55.364Z [Modules] Distribution: remote
+2023-11-20T18:20:55.364Z [Modules] Host updates: enabled
+2023-11-20T18:20:55.364Z [Modules] Module updates: enabled
+2023-11-20T18:20:55.365Z [Modules] Module install path: /home/milan/.config/discord/0.0.35/modules
+2023-11-20T18:20:55.365Z [Modules] Module installed file path: /home/milan/.config/discord/0.0.35/modules/installed.json
+2023-11-20T18:20:55.365Z [Modules] Module download path: /home/milan/.config/discord/0.0.35/modules/pending
+2023-11-20T18:20:57.321Z [Modules] No updates to install
+2023-11-20T18:20:57.321Z [Modules] Checking for host updates.
+2023-11-20T18:20:57.864Z [Modules] Host is up to date.
+2023-11-20T18:20:57.864Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T18:20:57.900Z [Modules] No module updates available.
+2023-11-20T18:21:02.195Z [Modules] Checking for host updates.
+2023-11-20T18:21:02.312Z [Modules] Host is up to date.
+2023-11-20T18:21:02.312Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T18:21:02.315Z [Modules] No module updates available.
+2023-11-20T20:18:36.786Z [Modules] Modules initializing
+2023-11-20T20:18:36.786Z [Modules] Distribution: remote
+2023-11-20T20:18:36.786Z [Modules] Host updates: enabled
+2023-11-20T20:18:36.786Z [Modules] Module updates: enabled
+2023-11-20T20:18:36.786Z [Modules] Module install path: /home/milan/.config/discord/0.0.35/modules
+2023-11-20T20:18:36.786Z [Modules] Module installed file path: /home/milan/.config/discord/0.0.35/modules/installed.json
+2023-11-20T20:18:36.787Z [Modules] Module download path: /home/milan/.config/discord/0.0.35/modules/pending
+2023-11-20T20:18:36.932Z [Modules] No updates to install
+2023-11-20T20:18:36.933Z [Modules] Checking for host updates.
+2023-11-20T20:18:37.295Z [Modules] Host is up to date.
+2023-11-20T20:18:37.296Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T20:18:37.335Z [Modules] No module updates available.
+2023-11-20T20:18:39.414Z [Modules] Checking for host updates.
+2023-11-20T20:18:39.589Z [Modules] Host is up to date.
+2023-11-20T20:18:39.589Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T20:18:39.592Z [Modules] No module updates available.
+2023-11-20T20:51:45.213Z [Modules] Modules initializing
+2023-11-20T20:51:45.213Z [Modules] Distribution: remote
+2023-11-20T20:51:45.213Z [Modules] Host updates: enabled
+2023-11-20T20:51:45.213Z [Modules] Module updates: enabled
+2023-11-20T20:51:45.213Z [Modules] Module install path: /home/milan/.config/discord/0.0.35/modules
+2023-11-20T20:51:45.214Z [Modules] Module installed file path: /home/milan/.config/discord/0.0.35/modules/installed.json
+2023-11-20T20:51:45.214Z [Modules] Module download path: /home/milan/.config/discord/0.0.35/modules/pending
+2023-11-20T20:51:45.356Z [Modules] No updates to install
+2023-11-20T20:51:45.356Z [Modules] Checking for host updates.
+2023-11-20T20:51:45.521Z [Modules] Host is up to date.
+2023-11-20T20:51:45.521Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T20:51:45.557Z [Modules] No module updates available.
+2023-11-20T20:51:47.644Z [Modules] Checking for host updates.
+2023-11-20T20:51:47.766Z [Modules] Host is up to date.
+2023-11-20T20:51:47.766Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T20:51:47.769Z [Modules] No module updates available.
+2023-11-20T21:51:47.646Z [Modules] Checking for host updates.
+2023-11-20T21:51:47.822Z [Modules] Host is up to date.
+2023-11-20T21:51:47.822Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T21:51:47.890Z [Modules] No module updates available.
+2023-11-20T22:51:47.647Z [Modules] Checking for host updates.
+2023-11-20T22:51:47.804Z [Modules] Host is up to date.
+2023-11-20T22:51:47.804Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T22:51:47.842Z [Modules] No module updates available.
+2023-11-20T23:51:47.646Z [Modules] Checking for host updates.
+2023-11-20T23:51:47.807Z [Modules] Host is up to date.
+2023-11-20T23:51:47.807Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-20T23:51:47.846Z [Modules] No module updates available.
+2023-11-21T00:51:47.648Z [Modules] Checking for host updates.
+2023-11-21T00:51:47.810Z [Modules] Host is up to date.
+2023-11-21T00:51:47.810Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-21T00:51:47.847Z [Modules] No module updates available.
+2023-11-21T01:51:47.646Z [Modules] Checking for host updates.
+2023-11-21T01:51:47.803Z [Modules] Host is up to date.
+2023-11-21T01:51:47.803Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-21T01:51:47.840Z [Modules] No module updates available.
